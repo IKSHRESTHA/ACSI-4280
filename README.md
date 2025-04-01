@@ -7,7 +7,7 @@
 
 ---
 
-**Contact:** [Your Name](mailto:kks4t@mtmail.mtsu.edu) | [GitHub Profile](https://github.com/IKSHRESTHA)
+**Contact:** [Krishna Kumar Shrestha](mailto:kks4t@mtmail.mtsu.edu) | [GitHub Profile](https://github.com/IKSHRESTHA)
 
 ---
 
