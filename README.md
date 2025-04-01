@@ -23,14 +23,15 @@
 ---
 
 ## Project Overview
-This final project is designed to guide you through the complete data science workflow as outlined in "R for Data Science" by Hadley Wickham. You are required to use the dataset and associated project resources provided in this repository. The submission is divided into two main parts: a Written Report and a Presentation, both of which should highlight dynamic and interactive components where applicable.
+This final project is designed to guide you through the complete data science workflow as outlined in "R for Data Science" by Hadley Wickham. You are required to use the dataset and associated project resources provided in this repository. The submission is divided into two main parts: a Written Report and a Presentation.
+The project should demonstrate your ability to collect, clean, analyze, and visualize data using R and its associated packages. You are encouraged to incorporate dynamic elements such as interactive visualizations or Shiny applications to enhance your project’s interactivity and engagement.
 
 ---
 
 ## Data Source
 The project uses the dataset available within this GitHub repository. All data and resources necessary for the project can be found here:  
-[GitHub Repository Link](https://github.com/IKSHRESTHA/ACSI-4280)  
-*Note: Replace with the actual URL if different.*
+[GitHub Repository Link](https://github.com/IKSHRESTHA/ACSI-4280) 
+
 
 ---
 
@@ -65,7 +66,6 @@ Your written report should be a comprehensive document that covers the following
 #### f. Exploratory Data Analysis (EDA)
 - Provide summary statistics (using functions like `summary()` or packages like `skimr`).
 - Include visualizations (histograms, boxplots, scatterplots, etc.) created with `ggplot2`.
-- **Dynamic Element:** Consider including interactive visualizations or embedding a Shiny app link to allow dynamic exploration of key trends and outliers.
 - Discuss the insights, trends, and any anomalies found during the analysis.
 
 #### g. Model Building & Evaluation
@@ -122,6 +122,6 @@ Prepare a clear and visually engaging slide deck that outlines the following:
 ## Final Notes
 - Your project should clearly follow the data science workflow as detailed in "R for Data Science" by Hadley Wickham.
 - Both the written report and the presentation should complement each other, with dynamic features enhancing the overall project delivery.
-- For any questions or further clarifications, please contact the course instructor.
+- For any questions or further clarifications, please contact me.
 
 **Good luck with your project!**
