@@ -7,6 +7,21 @@
 
 ---
 
+**Contact:** [Your Name](mailto:kks4t@mtmail.mtsu.edu) | [GitHub Profile](https://github.com/IKSHRESTHA)
+
+---
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Submission Components](#submission-components)
+  - [Written Report](#1-written-report)
+  - [Presentation](#2-presentation)
+- [Submission Requirements](#submission-requirements)
+- [Final Notes](#final-notes)
+
+---
+
 ## Project Overview
 This final project is designed to guide you through the complete data science workflow as outlined in "R for Data Science" by Hadley Wickham. You are required to use the dataset and associated project resources provided in this repository. The submission is divided into two main parts: a Written Report and a Presentation, both of which should highlight dynamic and interactive components where applicable.
 
@@ -14,7 +29,7 @@ This final project is designed to guide you through the complete data science wo
 
 ## Data Source
 The project uses the dataset available within this GitHub repository. All data and resources necessary for the project can be found here:  
-[GitHub Repository Link](https://github.com/yourusername/yourrepo)  
+[GitHub Repository Link](https://github.com/IKSHRESTHA/ACSI-4280)  
 *Note: Replace with the actual URL if different.*
 
 ---
